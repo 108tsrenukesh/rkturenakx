@@ -4,7 +4,7 @@
 /* ─────────────────────────────────────────────────────────────────────────
    Web3Forms access key. Replace with the key emailed to rkturenakx@gmail.com.
    ───────────────────────────────────────────────────────────────────────── */
-const WEB3FORMS_ACCESS_KEY = 'REPLACE_WITH_YOUR_WEB3FORMS_ACCESS_KEY';
+const WEB3FORMS_ACCESS_KEY = '6b67ec25-86a6-44c2-9a4d-e0a92702b9ae';
 
 const REDUCED_MOTION = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
